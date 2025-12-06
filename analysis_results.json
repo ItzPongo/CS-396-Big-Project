@@ -1,0 +1,11 @@
+{
+  "total_income": 300.0,
+  "total_expenses": 50.0,
+  "net_savings": 250.0,
+  "category_Gifts": 50.0,
+  "budget_status_Groceries": "OK - $500.0 remaining",
+  "budget_status_Entertainment": "OK - $200.0 remaining",
+  "budget_status_Utilities": "OK - $300.0 remaining",
+  "budget_status_Gifts": "OK - $450.0 remaining",
+  "recommendation": "Excellent! You're saving well. Keep up the good work!"
+}

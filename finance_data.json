@@ -1,0 +1,47 @@
+{
+  "transactions": [
+    {
+      "id": "01",
+      "date": "12-01-2025",
+      "category": "Salary",
+      "amount": 300.00,
+      "description": "Payday",
+      "type": "income"
+    },
+    {
+      "id": "02",
+      "date": "12-14-2025",
+      "category": "Gifts",
+      "amount": 50.00,
+      "description": "Christmas Gift",
+      "type": "expense"
+    }
+  ],
+  "categories": [
+    {
+      "name": "Groceries",
+      "budget_limit": 500.00,
+      "type": "expense"
+    },
+    {
+      "name": "Entertainment",
+      "budget_limit": 200.00,
+      "type": "expense"
+    },
+    {
+      "name": "Utilities",
+      "budget_limit": 300.00,
+      "type": "expense"
+    },
+    {
+      "name": "Salary",
+      "budget_limit": 0.00,
+      "type": "income"
+    },
+    {
+      "name": "Gifts",
+      "budget_limit": 500.00,
+      "type": "expense"
+    }
+  ]
+}
