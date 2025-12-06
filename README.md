@@ -30,6 +30,7 @@ This project demonstrates polyglot programming by integrating:
 ├── json_parser.scm       # Custom JSON parser for Scheme
 ├── Makefile             # Build configuration
 ├── finance_data.json    # Generated transaction data
+├── PLACE RACKET FOLDER HERE WITH racket.exe
 └── analysis_results.json # Generated analysis results
 ```
 
@@ -43,7 +44,7 @@ This project demonstrates polyglot programming by integrating:
 ### Installation
 
 1. Install [Racket](https://download.racket-lang.org/)
-2. Add Racket to your system PATH or note the installation location
+2. Add Racket to the folder or note the installation location
 
 ## Building the Project
 
