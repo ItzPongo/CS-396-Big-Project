@@ -108,7 +108,7 @@ void runAnalysis(Account& account) {
     
     // Use relative path if analysis.scm is in the same directory as the executable
     // Or use full path with proper Windows escaping
-    std::string command = "\"D:\\Racket\\racket.exe\" analysis.scm";
+    std::string command = "\"Racket\\racket.exe\" analysis.scm";
     
     int result = system(command.c_str());
     
@@ -203,4 +203,5 @@ int main() {
     }
     
     return 0;
+
 }
