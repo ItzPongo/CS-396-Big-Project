@@ -211,3 +211,7 @@ Utilities: OK - $224.80 remaining
 --- Recommendation ---
 Excellent! You're saving well. Keep up the good work!
 ```
+
+## Demo Video
+
+[Demo Video](https://youtu.be/1o36Z1r8vpE)
